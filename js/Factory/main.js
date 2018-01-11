@@ -1,4 +1,6 @@
 // FACTORY PATTERN
+// A pattern used to simplify object creation
+
 var Task = require('./Classes/task');
 var User = require('./Classes/user');
 var Project = require('./Classes/project');
